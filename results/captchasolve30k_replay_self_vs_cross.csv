@@ -1,0 +1,9 @@
+level,library,n,AUC_all,AUC_away_from_joins,human_median,bot_median,human_undefined,bot_undefined
+human_replay,cross-human (pool),400,0.886,0.895,0.345,0.294,0.832,0.008
+human_replay,"cross-human, resampled",400,0.49,0.489,0.345,0.36,0.832,0.855
+human_replay,self (own segments),396,0.728,0.537,0.345,0.0,0.836,0.088
+human_replay,"self, resampled",396,0.503,0.503,0.345,0.545,0.836,0.848
+human_replay_raw,cross-human (pool),400,0.888,0.895,0.345,0.289,0.832,0.005
+human_replay_raw,"cross-human, resampled",400,0.489,0.489,0.345,0.357,0.832,0.855
+human_replay_raw,self (own segments),396,0.489,0.488,0.345,0.191,0.836,0.833
+human_replay_raw,"self, resampled",396,0.473,0.471,0.345,0.214,0.836,0.874

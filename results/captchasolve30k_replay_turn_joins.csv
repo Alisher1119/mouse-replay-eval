@@ -1,0 +1,7 @@
+level,mode,AUC_turn,AUC_away_from_joins,AUC_at_joins,AUC_update_rate,human_turn_undefined,bot_turn_undefined,human_turn_median,bot_turn_median
+human_replay,raw,0.892,0.896,0.83,0.787,0.832,0.005,0.345,0.309
+human_replay_raw,raw,0.895,0.9,0.844,0.78,0.832,0.005,0.345,0.305
+human_replay,snap,0.936,0.912,0.886,0.734,0.832,0.012,0.345,0.45
+human_replay_raw,snap,0.936,0.908,0.919,0.745,0.832,0.008,0.345,0.452
+human_replay,resample,0.489,0.488,0.492,0.468,0.832,0.858,0.345,0.363
+human_replay_raw,resample,0.488,0.487,0.491,0.47,0.832,0.86,0.345,0.354

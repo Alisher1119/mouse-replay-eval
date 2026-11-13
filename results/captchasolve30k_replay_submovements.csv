@@ -1,0 +1,5 @@
+level,generator,AUC_submov_all,AUC_submov_away,AUC_minima_per_join,human_per_s,bot_per_s,human_per_join,bot_per_join,AUC_update_rate,n
+human_replay,"cross-human, resampled (= E2 bots)",0.623,0.623,0.615,0.0,0.0,0.0,0.0,0.471,400
+human_replay,"self, resampled",0.571,0.572,0.563,0.0,0.0,0.0,0.0,0.455,396
+human_replay_raw,"cross-human, resampled (= E2 bots)",0.623,0.62,0.618,0.0,0.0,0.0,0.0,0.47,400
+human_replay_raw,"self, resampled",0.578,0.577,0.565,0.0,0.0,0.0,0.0,0.413,396

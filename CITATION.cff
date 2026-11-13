@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Mouse-Dynamics Bot Detection Against Unseen Replay Attackers: code and results"
+authors:
+  - family-names: Alimova
+    given-names: Fotima
+    affiliation: "Tashkent University of Information Technologies named after Muhammad al-Khwarizmi"
+  - family-names: Khayrillaev
+    given-names: Alisher
+    affiliation: "Tashkent University of Information Technologies named after Muhammad al-Khwarizmi"
+    email: alisherxay97@gmail.com
+license: MIT
+preferred-citation:
+  type: article
+  title: "Mouse-Dynamics Bot Detection Against Unseen Replay Attackers: A Two-Dataset Evaluation of Supervised, Human-Only and Deep Detectors"
+  authors:
+    - family-names: Alimova
+      given-names: Fotima
+    - family-names: Khayrillaev
+      given-names: Alisher
+  journal: "Journal of Information Security and Applications"
+  year: 2026
+  notes: "Submitted"

@@ -1,0 +1,10 @@
+# Python >= 3.10. A CUDA GPU is recommended for the LSTM/GRU models (GS-Fusion, SSL encoder).
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+torch>=2.1
+lightgbm>=4.0
+datasets>=2.19
+matplotlib>=3.7
+jupyter>=1.0

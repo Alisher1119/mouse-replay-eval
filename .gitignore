@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Run artefacts written by the notebooks (dated result folders, caches, downloads)
+*.pkl
+*.npy
+*.zip
+results_*/
+outputs_*/
+*_20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]/
+data/
+# OS
+.DS_Store
